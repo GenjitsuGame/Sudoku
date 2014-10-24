@@ -7,7 +7,6 @@ package Sudoku;
 import Coord2D.Coord2D;
 import IMBT.Shaker;
 import IMBT.InMemoryBTCheck;
-import IMBT.Solutions;
 import SudoLib.ISudoku;
 import java.util.ArrayList;
 import java.util.Arrays;
